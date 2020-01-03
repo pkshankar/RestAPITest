@@ -2,20 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-09-25T16:24:51Z" name="Default suite" finished-at="2019-09-25T16:24:54Z" duration-ms="2471">
+  <suite started-at="2019-12-10T23:03:07 IST" name="Default suite" finished-at="2019-12-10T23:03:09 IST" duration-ms="1360">
     <groups>
     </groups>
-    <test started-at="2019-09-25T16:24:51Z" name="Default test" finished-at="2019-09-25T16:24:54Z" duration-ms="2471">
-      <class name="com.qa.test.PostCallTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.test.PostCallTest@534df152]" started-at="2019-09-25T21:54:51Z" name="setUp" finished-at="2019-09-25T21:54:51Z" duration-ms="11" status="PASS">
+    <test started-at="2019-12-10T23:03:07 IST" name="Default test" finished-at="2019-12-10T23:03:09 IST" duration-ms="1360">
+      <class name="com.qa.test.HttpClientBasicAuth">
+        <test-method signature="handleBasicAuthHttp()[pri:0, instance:com.qa.test.HttpClientBasicAuth@2133814f]" started-at="2019-12-10T23:03:07 IST" name="handleBasicAuthHttp" finished-at="2019-12-10T23:03:09 IST" duration-ms="1296" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="postCallTest()[pri:0, instance:com.qa.test.PostCallTest@534df152]" started-at="2019-09-25T21:54:51Z" name="postCallTest" finished-at="2019-09-25T21:54:54Z" duration-ms="2427" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- postCallTest -->
-      </class> <!-- com.qa.test.PostCallTest -->
+        </test-method> <!-- handleBasicAuthHttp -->
+      </class> <!-- com.qa.test.HttpClientBasicAuth -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
