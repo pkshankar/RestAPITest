@@ -1,0 +1,10 @@
+{
+	"authorized": true,
+	"guest": {
+		"chatNumber": 371442,
+		"username": "billyBob",
+		"guestId": 37561,
+		"primary": true,
+		"coppaRestricted": false
+	}
+}
